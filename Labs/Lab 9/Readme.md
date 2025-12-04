@@ -98,12 +98,9 @@ If you complete the stabilizer early, implement the **Time Span Calculator**:
   * **Return:** `Max - Min`.
   * **Constraint:** You must do this by traversing the tree, not by sorting an array.
 
-Good luck, Agent. The future is in your hands.
+Good luck, Agent. 
 
 ```
 
 ***
 
-### Suggested Next Step
-Would you like me to generate a **`starter_code.cpp`** file (boilerplate) that sets up the `struct` and the `main` loop, so your students can focus purely on writing the BST logic?
-```
