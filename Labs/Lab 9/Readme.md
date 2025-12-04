@@ -1,6 +1,4 @@
 
-
-````markdown
 # ⏳ Project: The Time-Stream Stabilizer
 
 ## 📜 Mission Background
@@ -102,5 +100,5 @@ Good luck, Agent.
 
 ```
 
-***
+
 
